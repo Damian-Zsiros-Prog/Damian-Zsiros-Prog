@@ -1,5 +1,5 @@
 ### Hi there 👋 I´m Damian Zsiros
-   <a href="http://www.damian-zsiros.tech/" target="_blank"><img src="http://www.damian-zsiros.tech/perfil.jpg" style="margin:auto;" width="200" /></a>
+   <a href="http://www.damian-zsiros.tech/" target="_blank"><img src="./img/perfil.jpg" style="margin:auto;" width="200" /></a>
 ### Principal projects:
    - <a href="https://github.com/Damian-Zsiros-Prog/exam-ratings" target="_blank">Exam ratings</a>
    - <a href="https://github.com/Damian-Zsiros-Prog/Boost-Cap-Gorra-Inteligente-Web-Page" target="_blank">Boost cap</a>
