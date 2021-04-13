@@ -1,8 +1,6 @@
-<center>### Hi there 👋 I´m Damian Zsiros</center>
-
-   <a href="http://www.damian-zsiros.tech/" target="_blank"><img src="http://www.damian-zsiros.tech/perfil.jpg" style="margin:auto;" width="200" /></a>
-
-  ###
+### Hi there 👋 I´m Damian Zsiros
+   <a href="http://www.damian-zsiros.tech/" target="_blank"><img src="http://www.damian-zsiros.tech/perfil.jpg" style="margin:auto;" width="200" /></a>x
+ ###
 
 ### Social Zone:
    - <a href="http://www.damian-zsiros.tech/" target="_blank">Web</a>
