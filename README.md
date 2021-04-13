@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Damian Zsiros
+<center>### Hi there 👋 I´m Damian Zsiros</center>
 
    <a href="http://www.damian-zsiros.tech/" target="_blank"><img src="http://www.damian-zsiros.tech/perfil.jpg" style="margin:auto;" width="200" /></a>
 
