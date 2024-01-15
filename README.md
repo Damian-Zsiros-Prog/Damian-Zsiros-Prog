@@ -3,6 +3,10 @@
 <a href='https://www.linkedin.com/in/damian-zsiros-gonzalez/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ProgDamian' target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<br/>
 Soy una persona versátil y me adapto fácilmente a diferentes roles (Desarrollador Web Full Stack 🌐, o Diseñador principiante 🎨, DBA Manager🖥️) según lo que el proyecto requiera. Me encanta explorar nuevas tecnologías 💻 y aprovecharlas para construir cosas geniales 🛠️.
 
 Te deje mi portafolio para que revises todo lo que se y he hecho: [Portafolio](https://www.damianzsiros.com/)
